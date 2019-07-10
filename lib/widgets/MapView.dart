@@ -1,3 +1,7 @@
+//*********************************//
+// Author: Amit Singh Phartiyal
+// Date: 9 July 2019
+//*********************************//
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
 
